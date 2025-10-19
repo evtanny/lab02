@@ -39,7 +39,8 @@
 
  2. Реализация программы
 
- #include <stdio.h>
+```
+#include <stdio.h>
 #include <locale.h>
 int main()
 {
@@ -61,7 +62,7 @@ int main()
 	printf("Экономия при выборе Ford Escort составляет %d фунтов.\n", Cr - Cf);
 	return 0;
 }
-
+```
 
 3. Результаты работы программы
 
